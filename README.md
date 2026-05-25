@@ -1,4 +1,4 @@
-# Paradise Nursery 🌿
+# Paradise Nursery
 
 This is a React shopping cart application for an online plant shop.
 
